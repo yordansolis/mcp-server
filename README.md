@@ -30,3 +30,46 @@ Este repositorio incluye dos ejemplos funcionales:
 ```bash
 cupcake_server.py
 ```
+
+### 2. 🌐 Búsqueda externa (WordPress)
+
+```bash
+main_post.py
+```
+
+---
+
+## 🛠️ Configuración e Instalación
+
+### Prerrequisitos
+
+- Python 3.8+
+- Cuenta de OpenAI con acceso a ChatGPT Enterprise/Team/Edu
+
+### Instalación
+
+1. Clona este repositorio:
+```bash
+git clone https://github.com/yordansolis/mcp-server.git
+cd mcp-server
+```
+
+2. Instala las dependencias:
+```bash
+pip install -r requirements.txt
+```
+
+3. Ejecuta el servidor:
+```bash
+python main.py
+```
+
+---
+
+## 🔧 Uso
+
+Una vez que el servidor esté corriendo, podrás conectarlo a ChatGPT mediante el Conector de Investigación Profunda usando los endpoints disponibles.
+
+---
+
+## 👨‍💻 **Desarrollado por Jhordan Andrés Asprilla Solís** 🌟
