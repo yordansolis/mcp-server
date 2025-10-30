@@ -73,5 +73,3 @@ Una vez que el servidor esté corriendo, podrás conectarlo a ChatGPT mediante e
 ---
 
 ## 👨‍💻 **Desarrollado por Jhordan Andrés Asprilla Solís** 🌟
-
-📧 **Contacto:** yordansolis@example.com
